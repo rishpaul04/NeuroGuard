@@ -29,6 +29,7 @@ NeuroGuard requires a synthesis of embedded hardware components and a Python-bas
 
 * **Language:** Python 3.x
 * **Libraries:** `smbus` (I2C communication), `adafruit-circuitpython-ads1x15`, `numpy`, `pandas`, `scipy` (for signal filtering/processing).
+* **Model Training:** LightGBM
 
 ---
 
